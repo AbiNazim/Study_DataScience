@@ -1,4 +1,4 @@
-# Проект Project Analysis.
+# Проект Project HeadHunter.
 
 ## Оглавление  
 [1. Описание проекта](.README.md#Описание-проекта)  
