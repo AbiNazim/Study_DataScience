@@ -162,3 +162,4 @@ cython_debug/
 #.idea/
 Project_hh/data/dst-3.0_16_1_hh_database.csv
 Project_hh/data/ExchangeRates.csv
+Project_hh_PostgreSQL/config.txt
