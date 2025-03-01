@@ -1,4 +1,4 @@
-# Проект Project HeadHunter.
+# Проект Project Booking.
 
 ## Оглавление  
 [1. Описание проекта](README.md#Описание-проекта)  
