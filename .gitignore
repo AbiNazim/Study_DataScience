@@ -167,3 +167,7 @@ Project_hh_PostgreSQL/config.yaml
 Учеба/EDA/unit_7_check_up.ipynb
 Учеба/EDA/config_med.yaml
 Project_EDA + Feature Engineering_Booking/data/hotels.csv
+Project_EDA + Feature Engineering_Booking/booking_data/hotels_test.csv
+Project_EDA + Feature Engineering_Booking/booking_data/hotels_train.csv
+Project_EDA + Feature Engineering_Booking/booking_data/submission.csv
+Project_EDA + Feature Engineering_Booking/data/hotels (1).csv
