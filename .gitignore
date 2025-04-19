@@ -194,3 +194,5 @@ Project_EDA + Feature Engineering_Booking/booking_data/hotels_train.csv
 Учеба/ML-2. Обучение с учитилем-Регрессия/data/insurance.csv
 Учеба/ML-3. Обучение с учителем-классификация/data/adult.csv
 Учеба/ML-3. Обучение с учителем-классификация/data/churn.csv
+Учеба/ML-4. Обучение без учителя кластеризация и техники понижения размерности/data/pokemon.csv
+Учеба/ML-4. Обучение без учителя кластеризация и техники понижения размерности/data/values_from_the_instrument.csv
