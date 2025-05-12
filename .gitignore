@@ -201,3 +201,4 @@ Project_EDA + Feature Engineering_Booking/booking_data/hotels_train.csv
 Учеба/ML-4. Обучение без учителя кластеризация и техники понижения размерности/data/segmented_customers.csv
 Учеба/ML-5. Валидация данных и оценка моделей/data/water_potability.csv
 Учеба/ML-5. Валидация данных и оценка моделей/data/online_shoppers_intention.csv
+Учеба/ML-6. Отбор и селекция признаков/data/data_ford_price.xlsx
