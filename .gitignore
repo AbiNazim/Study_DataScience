@@ -207,3 +207,5 @@ Project_EDA + Feature Engineering_Booking/booking_data/hotels_train.csv
 Учеба/ML-7. Оптимизация гиперпараметров модели/data/adult.csv
 Учеба/ML-7. Оптимизация гиперпараметров модели/data/_train_sem09 (1).csv
 Учеба/ML-8. Продвинутые методы машинного обучения/data/winequality-red.csv
+Учеба/ML-8. Продвинутые методы машинного обучения/data/Red.csv
+Учеба/ML-8. Продвинутые методы машинного обучения/pipeline.pkl
