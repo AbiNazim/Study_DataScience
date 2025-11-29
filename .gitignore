@@ -231,3 +231,35 @@ PROJECT-5. Задача регрессии/data/weather_data.csv
 Учеба/Математика в ML. Часть II/data/weatherAUS.csv
 PROJECT-6. Задача кластеризации/clean_data.csv
 PROJECT-6. Задача кластеризации/data/data.csv
+PROJECT-7.Diplom/data/real_estate.csv
+PROJECT-7.Diplom/data/square_footage_by_property.xlsx
+PROJECT-7.Diplom/data_xlsx/model_not_scaled.pkl
+PROJECT-7.Diplom/data_xlsx/model_results.xlsx
+PROJECT-7.Diplom/data_xlsx/model_standardised.pkl
+PROJECT-7.Diplom/data_xlsx/post_data_cleaning_data.xlsx
+PROJECT-7.Diplom/data_xlsx/post_data_encoding_data.xlsx
+PROJECT-7.Diplom/data_xlsx/pre_data_cleaning_data.xlsx
+PROJECT-7.Diplom/data_xlsx/primary_modeling_data.xlsx
+PROJECT-7.Diplom/data_xlsx/log/server_report
+Учеба/Математика в ML. Часть II/data/Frogs_MFCCs.csv
+Учеба/Математика в ML. Часть II/data/AirPass.csv
+Учеба/Математика в ML. Часть II/catboost_info/learn/events.out.tfevents
+Учеба/Математика в ML. Часть II/catboost_info/time_left.tsv
+Учеба/Математика в ML. Часть II/catboost_info/learn_error.tsv
+PROJECT-7.Diplom/graphs/1.1_box_state.html
+PROJECT-7.Diplom/graphs/1.2_box_property_group.html
+PROJECT-7.Diplom/graphs/1.3_box_property_type.html
+PROJECT-7.Diplom/graphs/1.4b_histogram_school_rating.html
+PROJECT-7.Diplom/graphs/1.4c_box_school_distance.html
+PROJECT-7.Diplom/graphs/1.4d_box_school_number.html
+PROJECT-7.Diplom/graphs/1.5b_box_bedroom.html
+PROJECT-7.Diplom/graphs/1.6_box_bathroom.html
+PROJECT-7.Diplom/graphs/1.7_box_property_age.html
+PROJECT-7.Diplom/graphs/1.8a_box_sqfeet.html
+PROJECT-7.Diplom/graphs/1.8b_box_price_per_sqfeet.html
+PROJECT-7.Diplom/graphs/1.9_box_storey_number.html
+PROJECT-7.Diplom/graphs/2.1_spearman_correlation.html
+PROJECT-7.Diplom/graphs/3.1_spearman_correlation_by_numericals.html
+PROJECT-7.Diplom/graphs/3.2_spearman_correlation_by_groups.html
+PROJECT-7.Diplom/output/model.pkl
+PROJECT-7.Diplom/output/log/server_report
